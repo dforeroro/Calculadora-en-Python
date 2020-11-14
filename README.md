@@ -16,3 +16,4 @@ Elaborado por Daniela Forero Rosales.
 2. from Tkhinter import ttk.
 3. rom Tkhinter import PhotoImage. 
 4. rom Tkhinter import messagebox.
+5. Descargar imagen "Calculadori.png".
